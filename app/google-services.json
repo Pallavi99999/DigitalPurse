@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885366053668",
+    "project_id": "digitalpurse-e9bad",
+    "storage_bucket": "digitalpurse-e9bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885366053668:android:dc3011b448fbf7831df1b1",
+        "android_client_info": {
+          "package_name": "com.example.digitalpurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885366053668-cu9obca6uerdp7vek9m5th439aij39rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApO2bu8_g7mG8zNtm6DAD2u0Nh9LLCTkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885366053668-cu9obca6uerdp7vek9m5th439aij39rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
